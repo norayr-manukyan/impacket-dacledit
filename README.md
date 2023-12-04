@@ -1,2 +1,2 @@
 # impacket-dacledit
-dacledit module
+dacledit python module
